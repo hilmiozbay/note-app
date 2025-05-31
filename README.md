@@ -18,7 +18,7 @@ Basit bir not defteri uygulaması. Node.js, Express, MongoDB ve Docker kullanıl
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/note-app.git
+git clone https://github.com/hilmiozbay/note-app.git
 cd note-app
 ```
 
@@ -33,10 +33,10 @@ docker-compose up
 
 Docker Hub'dan direkt olarak image'ı çekebilirsiniz:
 ```bash
-docker pull KULLANICI_ADINIZ/note-app:latest
+docker pull ozbayhilmi/note-app:latest
 ```
 
-Docker Hub Repository: https://hub.docker.com/r/KULLANICI_ADINIZ/note-app
+Docker Hub Repository: https://hub.docker.com/r/ozbayhilmi/note-app
 
 ## Teknolojiler
 
